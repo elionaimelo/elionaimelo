@@ -5,8 +5,6 @@
 
 I also have experience with React, Wordpress, jQuery, Gulp, Gitlab, Bitbucket, Jira, Photoshop, Illustrator, Adobe Xd and Figma.
 
-<br/><br/>
-
 #### My projects:
 [http://elionaimelo.com.br](http://elionaimelo.com.br/)
 
