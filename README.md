@@ -1,38 +1,24 @@
-<h1>Olá 👋, eu sou Elionai</h1>
-<h3>Desenvolvedor frontend(vue.js e react), Wordpress e webdesigner com experiência em adobe XD</h3>
-<br/>
+### Hi there, I'm Elionai Melo 👋
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [http://elionaimelo.com.br/](http://elionaimelo.com.br/)
+\
+🔭 I’m Frontend developer, currently exploring the JAMSTACK world and working/using Vue.js, Nuxt, Vuex, Pinia, Vue Router, Vue Utils, Jest, Vitest. 
 
+I also have experience with React, Wordpress, jQuery, Gulp, Gitlab, Bitbucket, Jira, Photoshop, Illustrator, Adobe Xd and Figma.
 
-<br/>
+<br/><br/>
 
-<h3 align="left">Redes sociais:</h3>
-<p align="left">
+#### My projects:
+[http://elionaimelo.com.br](http://elionaimelo.com.br/)
+
+#### How to reach me:
 <a href="https://linkedin.com/in/elionaimelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elionaimelo" height="30" width="40" /></a>
-</p>
-<br/>
-<h3 align="left">Linguagens e ferramentas de trabalho:</h3>
-<p align="left"> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://sass-lang.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-  </a> 
-</p>
+
+<br/><br/>
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=elionaimelo&show_icons=true&hide=stars&count_private=true&theme=radical&layout=compact" alt="Elionai github stats" /> <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elionaimelo&theme=dark&layout=compact&langs_count=8" alt="Elionai stats" />
+
+<!--
+![Elionai github stats](https://github-readme-stats.vercel.app/api?username=elionaimelo&show_icons=true&hide=stars,contribs&count_private=true&theme=dark&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elionaimelo&theme=dark&layout=compact)](https://github.com/elionaimelo/github-readme-stats)
+-->
+
+<a href="https://app.daily.dev/elionaimelo"><img src="https://api.daily.dev/devcards/270fa4b06c0a414791580b0e4561fc93.png?r=d1n" width="400" alt="Elionai's Dev Card"/></a>
