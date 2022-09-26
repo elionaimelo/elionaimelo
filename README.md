@@ -12,7 +12,7 @@ I also have experience with React, Wordpress, jQuery, Gulp, Gitlab, Bitbucket, J
 <a href="https://linkedin.com/in/elionaimelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elionaimelo" height="30" width="40" /></a>
 
 <br/><br/>
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=elionaimelo&show_icons=true&hide=stars&count_private=true&theme=radical&layout=compact" alt="Elionai github stats" /> <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elionaimelo&theme=dark&layout=compact&langs_count=8" alt="Elionai stats" />
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=elionaimelo&show_icons=true&hide=stars&count_private=true&theme=radical&layout=compact" alt="Elionai github stats" /> <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elionaimelo&theme=radical&layout=compact&langs_count=8" alt="Elionai stats" />
 
 <!--
 ![Elionai github stats](https://github-readme-stats.vercel.app/api?username=elionaimelo&show_icons=true&hide=stars,contribs&count_private=true&theme=dark&layout=compact)
